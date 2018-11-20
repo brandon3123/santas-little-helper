@@ -1,7 +1,6 @@
 var express = require('express');
 var body = require('body-parser');
 var router = express.Router();
-var loginService = require('../services/LoginService');
 
 router.get('/', function (req, res, next) {
     res.render('login', {
