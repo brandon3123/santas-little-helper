@@ -1,0 +1,9 @@
+{
+  country: 'Canada',
+  province: 'Alberta',
+  city: 'Calgary',
+  street: '406 2305 17B ST SW',
+  postal_code: 'T2T 4S9',
+  primary_phone: '403-689-3535',
+  secondary_phone: null
+}
