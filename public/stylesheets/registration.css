@@ -1,0 +1,12 @@
+#userBanner {
+    background-image: url(/images/snowmanbanner.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.banner-text {
+    position: relative;
+    bottom:30px;
+}
+
+
